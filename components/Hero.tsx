@@ -1,8 +1,8 @@
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
-import { ShootingStars } from "@/components/ui/shooting-stars";
-import { StarsBackground } from "@/components/ui/stars-background";
+// import { ShootingStars } from "@/components/ui/shooting-stars";
+// import { StarsBackground } from "@/components/ui/stars-background";
 
 const Hero = () => {
   return (

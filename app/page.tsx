@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import Grid from "../components/Grid";
-import { FloatingNav } from "@/components/ui/FloatingNav";
+// import { FloatingNav } from "@/components/ui/FloatingNav";
 import { ShootingStars } from "@/components/ui/shooting-stars";
 import { StarsBackground } from "@/components/ui/stars-background";
 
